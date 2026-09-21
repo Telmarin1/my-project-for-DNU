@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Hello\\x64\\Debug\\Hello.obj",
+            "outputs": [
+                "Hello\\x64\\Debug\\Hello.cpp.obj.dt.module.json",
+                "Hello\\x64\\Debug\\Hello.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
