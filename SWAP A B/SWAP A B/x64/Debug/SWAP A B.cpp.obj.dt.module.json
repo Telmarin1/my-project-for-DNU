@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "SWAP A B\\x64\\Debug\\SWAP A B.obj",
+            "outputs": [
+                "SWAP A B\\x64\\Debug\\SWAP A B.cpp.obj.dt.module.json",
+                "SWAP A B\\x64\\Debug\\SWAP A B.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
